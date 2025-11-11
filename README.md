@@ -120,7 +120,7 @@ Halo, nama saya cihuy, saya memiliki nim H1D023109 dan umur saya adalah 20
 ### 5. Screenshot Aplikasi
 
 #### FormData (Halaman Input)
-![Form Data Screenshot](Screenshot 2025-11-11 224128.png)
+![Form Data Screenshot](/Screenshot%202025-11-11%20224128.png)
 
 Halaman pertama menampilkan:
 - TextField untuk **Nama** (contoh: cihuy)
@@ -129,7 +129,7 @@ Halaman pertama menampilkan:
 - Tombol **Simpan** untuk mengirim data
 
 #### TampilData (Halaman Display)
-![Tampil Data Screenshot](Screenshot 2025-11-11 224227.png)
+![Tampil Data Screenshot](/Screenshot%202025-11-11%20224227.png)
 
 Halaman kedua menampilkan:
 - Kalimat hasil gabungan data: "Halo, nama saya cihuy, saya memiliki nim h1d023109 dan umur saya adalah 20"
